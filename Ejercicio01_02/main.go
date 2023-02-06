@@ -4,6 +4,8 @@ import (
 	"fmt" 
 	"strconv"
 )
+// VARIABLES
+
 
 //varianle publicas visible a otros paquetes
 var Numero int

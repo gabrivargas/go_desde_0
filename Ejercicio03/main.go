@@ -3,6 +3,9 @@ package main
 import (
 	"fmt" 
 )
+
+//CONDICIONALES
+
 var num int
 var estado bool
 var estado2 bool
